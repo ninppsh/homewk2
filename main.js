@@ -39,5 +39,5 @@ console.log(student);
 
 student.profession = 'artist';
 delete student.lastName;
-student.parent.mother.lastname = "Nakamura"
+student.parent.mother.lastname = "Nakamura";
 console.log(student);
